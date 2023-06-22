@@ -1,4 +1,4 @@
-# LeanPy
+# LearnPy
 
 How to use LearnPy
 
